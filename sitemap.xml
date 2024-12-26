@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home Page -->
+    <url>
+        <loc>https://www.bddonor.news/</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Fire Services Page -->
+    <url>
+        <loc>https://www.bddonor.news/fire-services</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Emergency Number Page -->
+    <url>
+        <loc>https://www.bddonor.news/emergency-number</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- News Page -->
+    <url>
+        <loc>https://www.bddonor.news/news</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Join Page -->
+    <url>
+        <loc>https://www.bddonor.news/join</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Request Page -->
+    <url>
+        <loc>https://www.bddonor.news/request</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Community Page -->
+    <url>
+        <loc>https://www.bddonor.news/community</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Campaign Page -->
+    <url>
+        <loc>https://www.bddonor.news/campaign</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Hospital Page -->
+    <url>
+        <loc>https://www.bddonor.news/hospital</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ambulance Page -->
+    <url>
+        <loc>https://www.bddonor.news/ambulances</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
